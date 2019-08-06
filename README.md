@@ -1,4 +1,4 @@
-# setup-scripts
+![](jhbdvb.png)
 a set of scripts to get a new computer set up easily
 
 ## How To use
