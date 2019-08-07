@@ -1,5 +1,12 @@
-![](jhbdvb.png)
-a set of scripts to get a new computer set up easily
+<div align="center">
+    <a href="oscardobsonbrown.me">
+        <h3>🎨</h3>
+        <h1>Dotfiles</h1>
+    </a>
+
+My Dotfiles for windows and linux
+
+</div>
 
 ## How To use
 1a. run these scripts it will set powershell scripts to be handled by powersell instead of notepad
