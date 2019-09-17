@@ -22,7 +22,6 @@ My Dotfiles for windows and linux
 3. type this command `choco install C:\path\to\packages.config`
 
 ### Things coming in future updates
-- [ ] All scripts in one file
+- [x] All scripts in one file
 - [ ] Create SOME documentation
-- [ ] Run the 'update' script every week checking for new packages
 - [ ] Make a step-by-step guide to getting this setup
