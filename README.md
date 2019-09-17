@@ -4,7 +4,7 @@
         <h1>Dotfiles</h1>
     </a>
 
-My Dotfiles for windows and linux
+My Dotfiles for Windows 10
 
 </div>
 
